@@ -1,0 +1,31 @@
+{
+  "author": "Eric Kouassi <hello@erickouassi.com> (https://erickouassi.com/)",
+  "name": "Exercise Tracker",
+  "version": "0.1.0",
+  "description": "Apis and Microservices Projects - Exercise Tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^5.6.9",
+    "mongodb": "^3.2.7",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "shortid": "^2.2.14"
+  },
+  "engines": {
+    "node": "6.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erickouassi/Exercise-Tracker"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "gomix",
+    "express"
+  ]
+}
